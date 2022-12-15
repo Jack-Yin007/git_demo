@@ -2512,3 +2512,5 @@ static void erase_fds_areas_test(void)
 /**
  * @}
  */
+
+// It it a test git. 121522.
